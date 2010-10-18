@@ -1,0 +1,31 @@
+BICBpy - Bioinformatincs and Computational Biology Tutorial with Python
+
+Authors:
+Moritz Beber and Nikolaus Sonnenschein, Jacobs University Bremen, Germany
+
+
+Purpose:
+- Undergrad teaching
+- Python fundamentals and standard library (urllib2, pickle)
+- Biopython (Niko?)
+- PyTables (Niko?)
+- NetworkX (Moritz?)
+- Numpy and Scipy (Moritz?)
+- Plotting capabilities (Niko and Moritz?)
+- Interfacing
+...
+
+Installation:
+
+Resources:
+
+Biopython documentation
+http://www.biopython.org/wiki/Documentation
+
+NetworkX documentation
+http://networkx.lanl.gov/contents.html
+
+Bibliography:
+
+Bassi S, 2007 A Primer on Python for Life Science Researchers. PLoS Comput Biol
+3(11): e199. doi:10.1371/journal.pcbi.0030199
