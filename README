@@ -18,18 +18,22 @@ Purpose:
 Tutorials:
 
 1. General introduction (using IPython + a Beamer)
-	1.1 Python?
-	1.2 IPython shell
-	1.3 Neat example
-	1.4 Syntax
-		1.4.1 Indentation
-		1.4.2 Assignments
-		1.4.3 Functions
-		1.4.4 Control structures
-	1.5 Everything is an object ...
-		1.5.1 Introspection 
+    1.1 Python?
+    1.2 IPython shell
+    1.3 Neat example
+    1.4 Syntax
+        1.4.1 Indentation
+        1.4.2 Assignments
+        1.4.3 Functions
+        1.4.4 Control structures
+    1.5 Everything is an object ...
+        1.5.1 Introspection 
 
-2. ...
+2. Tetranucleotide stuff
+
+3. NetworkX + GraphTheory
+
+4. ODEs
                   
 Installation:
 
