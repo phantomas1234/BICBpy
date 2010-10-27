@@ -33,6 +33,8 @@ Copyright (c) 2010 . All rights reserved.
 # If the implementation is easy to explain, it may be a good idea.
 # Namespaces are one honking great idea -- let's do more of those!
 
+# TODO:
+# try/except/else/finally
 
 # =================
 # = Ipython Shell =
@@ -46,6 +48,12 @@ Copyright (c) 2010 . All rights reserved.
 # ================
 
 # urllib2?
+# shutil/ os
+# gzip/bzip2
+# glob
+# random
+# re
+# pickle
 
 # ================
 # = Getting Help =
