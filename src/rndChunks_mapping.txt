@@ -1,0 +1,9 @@
+4410ea4c-e04e-11df-980b-0017f20024fc	gi|120322793|gb|CP000514.1| Marinobacter aquaeolei VT8, complete genome
+4410f424-e04e-11df-980b-0017f20024fc	gi|156720466|dbj|AP009324.1| Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome
+44109b50-e04e-11df-980b-0017f20024fc	gi|48994873|gb|U00096.2| Escherichia coli str. K-12 substr. MG1655, complete genome
+44108e30-e04e-11df-980b-0017f20024fc	gi|48994873|gb|U00096.2| Escherichia coli str. K-12 substr. MG1655, complete genome
+44109826-e04e-11df-980b-0017f20024fc	gi|48994873|gb|U00096.2| Escherichia coli str. K-12 substr. MG1655, complete genome
+4410e72c-e04e-11df-980b-0017f20024fc	gi|120322793|gb|CP000514.1| Marinobacter aquaeolei VT8, complete genome
+4410ed8a-e04e-11df-980b-0017f20024fc	gi|156720466|dbj|AP009324.1| Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome
+4410f06e-e04e-11df-980b-0017f20024fc	gi|156720466|dbj|AP009324.1| Staphylococcus aureus subsp. aureus Mu3 DNA, complete genome
+44109ed4-e04e-11df-980b-0017f20024fc	gi|120322793|gb|CP000514.1| Marinobacter aquaeolei VT8, complete genome

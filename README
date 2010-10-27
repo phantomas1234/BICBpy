@@ -1,19 +1,16 @@
 BICBpy - Bioinformatincs and Computational Biology Tutorial with Python
 
 Authors:
-Moritz Beber and Nikolaus Sonnenschein, Jacobs University Bremen, Germany
+Moritz Beber, Nikolaus Sonnenschein, and Marc-Thorsten Hütt
+Jacobs University Bremen, Germany
 
 
 Purpose:
 - Undergrad teaching
 - Python fundamentals and standard library (urllib2, pickle)
-- Biopython (Niko?)
-- PyTables (Niko?)
-- NetworkX (Moritz?)
-- Numpy and Scipy (Moritz?)
-- Plotting capabilities (Niko and Moritz?)
-- Interfacing
-...
+- Biopython: Genomic sequences
+- NetworkX: Moritz?
+- Numpy and Scipy: Solving ODEs
 
 Tutorials:
 
@@ -28,12 +25,23 @@ Tutorials:
         1.4.4 Control structures
     1.5 Everything is an object ...
         1.5.1 Introspection 
+        
+    X.X Tasks
 
 2. Tetranucleotide stuff
+    2.1 Read a genbank/fasta file using Biopython
+    2.2 Calculate the GC content of the sequence
+    2.3 Determine the tetranucleotide frequencies of the sequence
+    2.4 Determine the tetranucleotide frequencies of another sequence and
+        calculate Pearson's rho (a.k.a. Pearson product-moment correlation 
+        coefficient [1])
+    2.5 Read anonymous sequence chunks from anonymousSequences.fasta and try
+        to classify them.
 
 3. NetworkX + GraphTheory
 
 4. ODEs
+
                   
 Installation:
 
@@ -45,7 +53,14 @@ http://www.biopython.org/wiki/Documentation
 NetworkX documentation
 http://networkx.lanl.gov/contents.html
 
-Bibliography:
+References:
+
+[1] http://en.wikipedia.org/wiki/Pearson_product-moment_correlation_coefficient
+
+Reading Material:
 
 Bassi S, 2007 A Primer on Python for Life Science Researchers. PLoS Comput Biol
 3(11): e199. doi:10.1371/journal.pcbi.0030199
+
+Code Like a Pythonista: Idiomatic Python
+http://python.net/%7Egoodger/projects/pycon/2007/idiomatic/handout.html
