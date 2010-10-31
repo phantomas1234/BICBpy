@@ -26,19 +26,26 @@ Tutorials:
     1.5 Everything is an object ...
         1.5.1 Introspection 
         
-    X.X Tasks
+    1.6. Solve as many python riddles as you can (www.pythonchallenge.com)
 
-2. Tetranucleotide stuff
-    2.1 Read a genbank/fasta file using Biopython
-    2.2 Calculate the GC content of the sequence
-    2.3 Determine the tetranucleotide frequencies of the sequence
-    2.4 Determine the tetranucleotide frequencies of another sequence and
-        calculate Pearson's rho (a.k.a. Pearson product-moment correlation 
-        coefficient [1])
-    2.5 Read anonymous sequence chunks from anonymousSequences.fasta and try
-        to classify them.
+2. Working with sequences
+    2.1 Read in a genomic nucleotide sequence from a fasta/genbank file (see
+    alo SeqIO.read and SeqIO.parse)
+    2.2 Determine the GC content (G+CA+T+G+CÂ100 ) of the sequence (see
+    Seq.count)
+    2.3 Determine all tetranucleotide frequencies of the sequence (a python
+    dictionary maybe useful) and plot them (see list_plot)
+    2.4 Read in another genomic sequence and compare it to the previous
+    sequence using both GC content and tetranucleotide frequencies (see
+    scatter_plot and pearsonr)
+    2.5 Read in the E. coli, Marinobacter aquaeoli and S. aureus sequences and
+    determine their tetranucleotide frequency profiles
+    2.6 Use these profiles to predict the origin of the anonymous sequence
+    chunks contained in the random_chunks.fasta file. They all have been
+    obtained from either of the previously mentioned genomes.
 
-3. NetworkX + GraphTheory
+
+3. NetworkX + GraphTheory + Protein-Protein interaction networks
 
 4. ODEs
 
